@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-sutariya&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-sutariya" /> </p>
+[![An image of @vaibhavsutariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavsutariya)](https://holopin.io/@vaibhavsutariya)
 
 - 🌱 I’m currently learning **Flutter Full stack development**
 
